@@ -77,7 +77,7 @@ class DynamiccStack { // LIFO
 	}
 }
 
-public class DynamicStack {
+public class DynamicsStack {
 	public static void main(String[] args) {
 		DynamiccStack ds = new DynamiccStack();
 		ds.push(5);
